@@ -21,3 +21,4 @@ Global
 		SolutionGuid = {C2C6A408-AA63-4D24-B044-B8FF3ECE7226}
 	EndGlobalSection
 EndGlobal
+
